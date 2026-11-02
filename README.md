@@ -28,7 +28,7 @@
 - [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [⭐ Open-Source Solutions Ranked by GitHub Stars](#-open-source-solutions-ranked-by-github-stars)
+  - [⭐ Open-Source Solutions Ranked by GitHub_Stars](#-open-source-solutions-ranked-by-github-stars)
   - [Detailed Breakdown by Category](#-detailed-breakdown-by-category)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support](#-support)
@@ -63,9 +63,9 @@ The sector exhibits **moderate fragmentation with high concentration around core
 
 ## 💻 Open-Source GitHub Projects
 
-### ⭐ Open-Source Solutions Ranked by GitHub Stars
+### ⭐ Open-Source Solutions Ranked by GitHub_Stars
 
-| Rank | Project | GitHub Stars Badge | License | Language | Primary Category |
+| Rank | Project | GitHub_Stars_Badge | License | Language | Primary Category |
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | 1 | **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** | [![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers) | AGPL-3.0 | JavaScript / Node.js | Self-hosted monitoring & incident alerting status pages |
 | 2 | **[Netdata](https://github.com/netdata/netdata)** | [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) | GPL-3.0 | C / Go / Python | Real-time infrastructure health & anomaly alerting engine |
