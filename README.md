@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Incident-Management-Alerting/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishanuutta2007?label=Follow" /></a>
 
 <br/>
 
@@ -31,6 +31,8 @@
   - [⭐ Open-Source Solutions Ranked by GitHub Stars](#-open-source-solutions-ranked-by-github-stars)
   - [Detailed Breakdown by Category](#-detailed-breakdown-by-category)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer](#-disclaimer)
 
 ---
@@ -148,6 +150,22 @@ We welcome additions, corrections, and improvements from the SRE and DevOps comm
 2. 📝 Add or edit entries in `README.md` (keep alphabetical or table format consistent).
 3. 🏷️ Ensure all pricing, limits, and GitHub links are verified and up-to-date.
 4. 🚀 Submit a Pull Request with a clear description of your changes.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using **Awesome-Incident-Management-Alerting**! If you find this curated resource helpful:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** it with fellow SREs, DevOps engineers, and teammates.
+- ☕ **Support the creator**: Consider [buying a coffee via the GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to help sustain ongoing curation, research, and maintenance!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Incident-Management-Alerting&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Incident-Management-Alerting&type=date&legend=top-left)
 
 ---
 
